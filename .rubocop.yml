@@ -1,0 +1,6 @@
+AllCops:
+  TargetRubyVersion: 3.1.2
+  Exclude:
+    - "test/dummy/**/*"
+    - "request-history.gemspec"
+  NewCops: enable
