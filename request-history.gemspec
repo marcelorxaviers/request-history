@@ -35,7 +35,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "mocha", "~> 1.14"
   spec.add_development_dependency "rubocop"
-  spec.add_development_dependency "rails", "~> 7.0.3", ">= 7.0.3.1"
+  spec.add_development_dependency "rails", "~> 7.0.4", ">= 7.0.4.2"
   spec.add_development_dependency "rake", ">= 13.0.6"
   spec.metadata["rubygems_mfa_required"] = "true"
 end
